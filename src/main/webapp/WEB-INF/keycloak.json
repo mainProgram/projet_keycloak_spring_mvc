@@ -1,0 +1,10 @@
+{
+  "realm": "demo",
+  "auth-server-url": "http://localhost:8081/",
+  "ssl-required": "external",
+  "resource": "spring-with-test-scope",
+  "credentials": {
+    "secret": "IWLSnakHG8aNTWNaWuSj0a11UY4lzxd9"
+  },
+  "confidential-port": 0
+}
