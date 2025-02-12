@@ -1,10 +1,10 @@
 {
   "realm": "demo",
-  "auth-server-url": "http://localhost:8081/",
+  "auth-server-url": "http://localhost:8081",
   "ssl-required": "external",
-  "resource": "spring-with-test-scope",
+  "resource": "tp3-keycloak",
   "credentials": {
-    "secret": "IWLSnakHG8aNTWNaWuSj0a11UY4lzxd9"
+    "secret": "FRujZ04ypDEsTFo9SeCmtMOAmkgF8PeY"
   },
   "confidential-port": 0
 }

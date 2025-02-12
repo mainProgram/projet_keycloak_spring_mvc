@@ -5,8 +5,13 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
 public class WelcomeController {
-    @GetMapping(name="welcome", value = "/welcome")
+    @GetMapping( "/")
     public String welcome() {
+        return "welcome";
+    }
+
+    @GetMapping( "/welcome")
+    public String welcome2() {
         return "welcome";
     }
 

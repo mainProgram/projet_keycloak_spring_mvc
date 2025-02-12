@@ -1,7 +1,6 @@
 package com.groupeisi.keycloak.config;
 
 import com.groupeisi.keycloak.entity.ProductEntity;
-import com.groupeisi.keycloak.entity.UserEntity;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.AvailableSettings;
@@ -39,8 +38,7 @@ public class HibernateUtil {
                settings.put(AvailableSettings.CURRENT_SESSION_CONTEXT_CLASS, "thread");
 
                configuration.setProperties(settings);
-               configuration.addAnnotatedClass(ProductEntity.class);;
-               configuration.addAnnotatedClass(UserEntity.class);;
+               configuration.addAnnotatedClass(ProductEntity.class);
 
                ServiceRegistry serviceRegistry = new StandardServiceRegistryBuilder()
                        .applySettings(configuration.getProperties()).build();
