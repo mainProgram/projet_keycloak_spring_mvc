@@ -2,9 +2,9 @@
   "realm": "demo",
   "auth-server-url": "http://localhost:8081",
   "ssl-required": "external",
-  "resource": "tp3-keycloak",
+  "resource": "tp-keycloak",
   "credentials": {
-    "secret": "FRujZ04ypDEsTFo9SeCmtMOAmkgF8PeY"
+    "secret": "Z2FZXrJAXHDCi2CIlHMLThPadx2LSjDU"
   },
   "confidential-port": 0
 }
