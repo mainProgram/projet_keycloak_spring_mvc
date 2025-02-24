@@ -11,28 +11,28 @@
 - Maven 3.*
 
 ##### Configuration du serveur Tomcat
-![](C:\Users\fazeyna\Desktop\COURS_ISI_M2\JEE\security\projet2_keycloak\src\main\resources\img\config.png)
+![](src/main/resources/img/config.png)
 
 ##### docker compose up pour démarrer la BD
-![](C:\Users\fazeyna\Desktop\COURS_ISI_M2\JEE\security\projet2_keycloak\src\main\resources\img\docker.png)
+![](src/main/resources/img/docker.png)
 
 ##### Redirection par défaut après démarrage du projet
-![](C:\Users\fazeyna\Desktop\COURS_ISI_M2\JEE\security\projet2_keycloak\src\main\resources\img\page-accueil.png)
+![](src/main/resources/img/page-accueil.png)
 
 ##### Page de Bienvenue
-![](C:\Users\fazeyna\Desktop\COURS_ISI_M2\JEE\security\projet2_keycloak\src\main\resources\img\bienvenue.png)
+![](src/main/resources/img/bienvenue.png)
 
 ##### Liste des produits
-![](C:\Users\fazeyna\Desktop\COURS_ISI_M2\JEE\security\projet2_keycloak\src\main\resources\img\liste-produits.png)
+![](src/main/resources/img/liste-produits.png)
 
 ##### Ajout de produits
-![](C:\Users\fazeyna\Desktop\COURS_ISI_M2\JEE\security\projet2_keycloak\src\main\resources\img\ajout-produits.png)
+![](src/main/resources/img/ajout-produits.png)
 
 ##### Liste après ajout
-![](C:\Users\fazeyna\Desktop\COURS_ISI_M2\JEE\security\projet2_keycloak\src\main\resources\img\liste-apres-ajout.png)
+![](src/main/resources/img/liste-apres-ajout.png)
 
 ##### Déconnexion
-![](C:\Users\fazeyna\Desktop\COURS_ISI_M2\JEE\security\projet2_keycloak\src\main\resources\img\deconnexion.png)
+![](src/main/resources/img/deconnexion.png)
 
 
 
